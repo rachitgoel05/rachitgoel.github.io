@@ -1,0 +1,70 @@
+body
+{
+    overflow: scroll;
+    overflow-x:hidden;
+}
+.page-1{
+    background-color: black;
+    position: relative;
+    height:120%;
+    width:100%;
+
+
+}
+.container-fluid{
+    overflow-x: hidden;
+    width:100%;
+    height:120%;
+
+}
+.avatar
+{
+    vertical-align: middle;
+    border-radius: 50%;
+    width:75px;
+    height:75px;
+    margin-left:-1vw;
+}
+.navbar-nav
+{
+    font-size:25px;
+    padding:2px;
+    margin-left:48vw;
+}
+.nav-item a
+{
+    font-size:25px;
+    padding:1.5rem !important;
+    font-family:'Livvic',sans-serif;
+}
+.btn-style
+{
+    border:2px solid #F2F4F4;
+    height:50px;
+    width:230px;
+    text-align:center;
+    font-size:25px;
+    cursor: pointer;
+    margin-bottom:25px;
+}
+.btn-style:hover
+{
+    color:#3fe4d0;
+}
+#downloads
+{
+    text-decoration:none;
+    color:white;
+}
+.icon-pos{
+    text-align:center;
+    margin-top:140px;
+}
+.icons{
+    font-size:40px; 
+    color:white;
+    cursor: pointer;
+}
+.icons:hover{
+    color:#3fe4d0;
+}
